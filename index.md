@@ -2,7 +2,7 @@
 title: Home
 permalink: /index.html
 ---
-[test](readme.md)
+[test](README.md)
 
 ## Welcome to GitHub Pages
 
