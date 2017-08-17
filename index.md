@@ -1,5 +1,6 @@
 ---
 title: Home
+permalink: /index.html
 ---
 [test](readme.md)
 
