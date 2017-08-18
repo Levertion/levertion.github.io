@@ -2,5 +2,5 @@
 title: Home
 permalink: /index.html
 ---
-#Introduction  
+# Introduction  
 This is a website. Mostly to test jekyll and gh-pages
