@@ -3,4 +3,9 @@ title: Home
 permalink: /index.html
 ---
 # Introduction  
-This is a website. Mostly to test jekyll and gh-pages
+On this website I will be showing my various minecraft creations and utilities. Some of these will be useful for map-making, or video creation.
+
+# Examples  
+{% for example in site.tags.example%}
+  {{example}}
+{%endfor%}
