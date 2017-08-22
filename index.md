@@ -9,4 +9,5 @@ On this website I will be showing my various minecraft creations and utilities. 
 # Examples  
 {% for example in site.tags.example %}
   {{ example }}
+  hi
 {% endfor %}
