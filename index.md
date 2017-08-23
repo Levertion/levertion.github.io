@@ -12,6 +12,7 @@ hi 1
 {% for example in site.pages %}
 {{example.title}}
 {% unless example.url==page.url %}
+full:
 {{example}}
 {% endunless %}
 {% if example.asExample %}
