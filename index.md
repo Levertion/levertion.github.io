@@ -15,7 +15,7 @@ hi 1
 full:
 {{example}}
 {% endunless %}
-{% if example.asExample %}
+{% if example.isExample %}
 # [{{example.title}}]({{example.url}})
 {% if example.description %}
   {{ example.description }}
