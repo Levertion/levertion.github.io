@@ -1,17 +1,19 @@
 ---
 title: Home
 permalink: /index.html
-tags: example
+tags: ["example"]
 ---
 # Introduction  
 On this website I will be showing my various minecraft creations and utilities. Some of these will be useful for map-making, or video creation.
 
 # Examples  
 [example1](example1.md)
-hi 1
-{{page.tags}}
-{{site.tags}}
-{% for example in site.tags.example %}
-  {{ example }}
-  hi
+hi 1  
+{% for example in site.pages %}
+{% if example.asExample %}
+# [{{example.title}}]({{example.url}})
+{% if example.description %}
+  {{ example.description }}
+{% endif %}
+{% endif %}
 {% endfor %}
