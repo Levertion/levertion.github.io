@@ -10,6 +10,7 @@ On this website I will be showing my various minecraft creations and utilities. 
 [example1](example1.md)
 hi 1  
 {% for example in site.pages %}
+{{example.title}}
 {% if example.asExample %}
 # [{{example.title}}]({{example.url}})
 {% if example.description %}
