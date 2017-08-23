@@ -14,4 +14,5 @@ On this website I will be showing my various minecraft creations and utilities. 
   {{ example.description }}
 {% endif %}
 {% endif %}
+---
 {% endfor %}
