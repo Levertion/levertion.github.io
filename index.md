@@ -9,6 +9,7 @@ On this website I will be showing my various minecraft creations and utilities. 
 # Examples  
 [example1](example1.md)
 hi 1
+{{page.tags}}
 {{site.tags}}
 {% for example in site.tags.example %}
   {{ example }}
