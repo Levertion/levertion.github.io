@@ -11,6 +11,9 @@ On this website I will be showing my various minecraft creations and utilities. 
 hi 1  
 {% for example in site.pages %}
 {{example.title}}
+{% unless example.url==page.url %}
+{{example}}
+{% endunless %}
 {% if example.asExample %}
 # [{{example.title}}]({{example.url}})
 {% if example.description %}
