@@ -10,7 +10,7 @@ On this website I will be showing my various minecraft creations and utilities. 
 ---
 {%- for example in site.pages -%}
 {%-- if example.is_example -%}
-# [{{example.title}}]({{example.url}})  
+# [{{example.title}}]({{example.url}})  {%-if example.supported_version -%}For {{- example.supported_version -}}{%- endif -%}
 {%- if example.description -%}
   {{ example.description }}
 {%- endif -%}
