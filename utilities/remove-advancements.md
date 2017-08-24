@@ -15,7 +15,7 @@ Extract the zip from the link above into your world's data folder.
 ### Explanation
 *This is my preferred method:*  
 For each advancement, it replaces the content with:  
-```javascript
+```json
 {"criteria":{
   "impossible":{
     "trigger":"minecraft:impossible"
