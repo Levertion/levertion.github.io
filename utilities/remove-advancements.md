@@ -22,6 +22,7 @@ For each advancement, it replaces the content with:
 }}}
 ```
 This is because when Minecraft detects that there is an advancement with the same filename as one of the vanilla ones in the word, it uses that one instead. The above json creates an advancement with no display data, so it does not have an icon or display a toast.  
+The code used to generate the folder can be found [here](https://github.com/Levertion/remove-advancements/blob/overwrite-all/noadvancements.py)
 
 ## Method 2 (Create invalid roots)
 This method is documented [here](https://www.reddit.com/r/MinecraftCommands/comments/6fvcdj/empty_advancements/dim8lq2/?st=j6qkunj1&sh=b85d431d) by [/u/makluss](https://www.reddit.com/user/Mlakuss) on Reddit, as well as a discussion of the advantages and disadvantages of both methods.  
