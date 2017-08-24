@@ -2,7 +2,7 @@
 title: Remove Vanilla Advancements
 is_example: True
 description: "Two methods of removing vanilla advancements, and how to do it yourself"
-supported_version_internal: [12]
+supported_versions_internal: [12]
 supported_version: "1.12(.1)"
 permalink: /utilities/remove-advancements.html
 ---
