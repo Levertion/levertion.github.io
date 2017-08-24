@@ -20,9 +20,6 @@ For each advancement, it replaces the content with:
 }}}
 ```
 This is because when Minecraft detects that there is an advancement with the same filename as one of the vanilla ones in the word, it uses that one instead. The above json creates an advancement with no display data, so it does not have an icon or display a toast.  
-|Hi|hello|  
-|---|---|  
-|Content|Content|  
-|Stuff|Stuff|  
+
 ## Method 2 (Create invalid roots)
 This
