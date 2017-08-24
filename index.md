@@ -12,7 +12,7 @@ On this website I will be showing my various minecraft creations and utilities. 
 {%-- if example.isExample -%}
 # [{{example.title}}]({{example.url}})  
 {%- if example.description -%}
-  {{- example.description -}}
+  {{ example.description }}
 {%- endif -%}
 ---
 {%- endif -%}
