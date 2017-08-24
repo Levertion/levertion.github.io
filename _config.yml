@@ -2,3 +2,4 @@ theme: jekyll-theme-slate
 title: Levertion's Minecraft Creations
 permalink: /:categories/:slug.html
 google_analytics_disabled: UA-103575807-1
+url: https://levertion.github.io
