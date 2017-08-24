@@ -9,7 +9,7 @@ On this website I will be showing my various minecraft creations and utilities. 
 # Examples  
 ---
 {%- for example in site.pages -%}
-{%-- if example.isExample -%}
+{%-- if example.is_example -%}
 # [{{example.title}}]({{example.url}})  
 {%- if example.description -%}
   {{ example.description }}
