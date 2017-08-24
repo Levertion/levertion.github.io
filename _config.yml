@@ -1,4 +1,4 @@
 theme: jekyll-theme-slate
 title: Levertion's Minecraft Creations
-permalink: /:categories/:title.html
+permalink: /:categories/:slug.html
 google_analytics_disabled: UA-103575807-1
