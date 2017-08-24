@@ -1,6 +1,6 @@
 ---
 title: Remove Vanilla Advancements
-is_example: true
+is_example: "true"
 description: "Two methods of removing vanilla advancements, and how to do it yourself"
 supported_versions_internal: [12]
 supported_version: "1.12(.1)"
