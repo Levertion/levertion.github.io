@@ -10,6 +10,8 @@ For a lot of Minecraft content apart from the vanilla survival experience, the v
 Luckily, vanilla Minecraft has multiple methods to remove these advancements. This also stops the gaining of recipes when collecting items.   
 ## Method 1 (Overwrite all)
 ### [Download](https://github.com/Levertion/remove-advancements/releases/download/Overwite-allv1.1/remove-advancements.zip)    
+#### Installation  
+Extract the zip from the link above into your world's data folder.  
 ### Explanation
 *This is my preferred method:*  
 For each advancement, it replaces the content with:  
@@ -22,4 +24,4 @@ For each advancement, it replaces the content with:
 This is because when Minecraft detects that there is an advancement with the same filename as one of the vanilla ones in the word, it uses that one instead. The above json creates an advancement with no display data, so it does not have an icon or display a toast.  
 
 ## Method 2 (Create invalid roots)
-This
+This method is documented [here](https://www.reddit.com/r/MinecraftCommands/comments/6fvcdj/empty_advancements/dim8lq2/?st=j6qkunj1&sh=b85d431d) by [/u/makluss](https://www.reddit.com/user/Mlakuss) on Reddit, as well as a discussion of the advantages and disadvantages of both methods.  
