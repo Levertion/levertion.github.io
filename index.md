@@ -8,12 +8,11 @@ On this website I will be showing my various minecraft creations and utilities. 
 
 # Examples  
 ---
-{% for example in site.pages %}
-{% if example.is_example %}
-# [{{example.title}}]({{example.url}}) {%if example.supported_version %} For {{ example.supported_version }} {% endif %}
+{% assign examples = (site.pages | where: "is_example" , true) %}
+{% for example in examples %}
+# [{{example.title}}]({{example.url}}) {%if example.supported_versions %} For {{example.supported_versions}} {% endif %}
 {% if example.description %}
   {{ example.description }}
 {% endif %}
 ---
-{% endif %}
 {% endfor %}
