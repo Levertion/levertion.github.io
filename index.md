@@ -8,12 +8,12 @@ On this website I will be showing my various minecraft creations and utilities. 
 
 # Examples  
 ---
-{% for example in site.pages %}
-{% if example.isExample %}
-# [{{example.title}}]({{example.url}})
-{% if example.description %}
-  {{ example.description }}
-{% endif %}
+{%- for example in site.pages -%}
+{%-- if example.isExample -%}
+# [{{example.title}}]({{example.url}})  
+{%- if example.description -%}
+  {{- example.description -}}
+{%- endif -%}
 ---
-{% endif %}
-{% endfor %}
+{%- endif -%}
+{%- endfor -%}
