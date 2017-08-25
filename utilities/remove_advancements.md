@@ -2,9 +2,8 @@
 title: Remove Vanilla Advancements
 is_example: "true"
 description: "Two methods of removing vanilla advancements, and how to do it yourself"
-supported_versions_internal: [12]
-supported_version: "1.12(.1)"
-permalink: /utilities/remove-advancements.html
+supported_versions: [java-1.12"]
+permalink: /utilities/remove_advancements.html
 ---
 For a lot of Minecraft content apart from the vanilla survival experience, the vanilla advancements take away from the professionalism rather than add to the experience of the content. This is especially important for map-making and tutorial video production, when it removes from immersion because of unneeded toasts.  
 Luckily, vanilla Minecraft has multiple methods to remove these advancements. This also stops the gaining of recipes when collecting items.   
