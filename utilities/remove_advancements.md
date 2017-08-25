@@ -26,4 +26,4 @@ The code used to generate the folder can be found [here](https://github.com/Leve
 ## Method 2 (Create invalid roots)
 This method is documented [here](https://www.reddit.com/r/MinecraftCommands/comments/6fvcdj/empty_advancements/dim8lq2/?st=j6qkunj1&sh=b85d431d) by [/u/makluss](https://www.reddit.com/user/Mlakuss) on Reddit, as well as a discussion of the advantages and disadvantages of both methods.  
 ## Credit  
-You are not required to credit me if you use this download. However, if you wish to, please make sure to give a link to either the home page ({{site.url}}), or this page ({{page.url}})
+You are not required to credit me if you use this download. However, if you wish to, please make sure to give a link to either the home page ({{site.url}}), or this page ({{ page.url | absolute_url }})
