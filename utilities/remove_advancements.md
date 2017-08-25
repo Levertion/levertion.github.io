@@ -1,7 +1,7 @@
 ---
 title: Remove Vanilla Advancements
 is_example: "true"
-description: "Two methods of removing vanilla advancements, and how to do it yourself"
+description: "Two methods of removing vanilla advancements, and how this works"
 supported_versions: "Java 1.12.1"
 permalink: /utilities/remove_advancements.html
 ---
