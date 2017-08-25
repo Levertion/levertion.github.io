@@ -1,5 +1,4 @@
 ---
-title: Home
 permalink: /index.html
 tags: ["example"]
 ---
