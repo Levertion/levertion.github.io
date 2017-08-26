@@ -15,7 +15,8 @@ Luckily, vanilla Minecraft has multiple methods to remove these advancements. Th
 ## [Download](https://github.com/Levertion/remove-advancements/releases/download/Overwite-allv1.1/remove-advancements.zip)    
 ### Installation  
 Extract the zip from the link above into your world's data folder. This should be the advancements folder rather than the remove-advancements folder.  
-#### Hi
+#### Hitest
+{{site.kramdown.toc_levels}}
 ## Explanation
 *This is my preferred method:*  
 For each advancement, it replaces the content with:  

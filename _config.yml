@@ -4,4 +4,4 @@ permalink: /:categories/:slug.html
 google_analytics_disabled: UA-103575807-1
 url: https://levertion.github.io
 kramdown:
-  -toc_levels: 1..3
+  toc_levels: 1..3
