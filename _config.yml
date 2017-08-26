@@ -6,3 +6,4 @@ url: https://levertion.github.io
 kramdown:
   toc_levels: 1..2
 lang: en_GB
+exclude: [README.md]
