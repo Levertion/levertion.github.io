@@ -8,3 +8,4 @@ kramdown:
 lang: en_GB
 twitter:
   username: levertionmc
+exclude: [README.md]
