@@ -1,5 +1,6 @@
 theme: jekyll-theme-slate
 title: Levertion's Minecraft Creations
+desciption: A selection of Minecraft creations
 permalink: /:categories/:slug.html
 google_analytics_disabled: UA-103575807-1
 url: https://levertion.github.io
@@ -9,3 +10,8 @@ lang: en_GB
 twitter:
   username: levertionmc
 exclude: [README.md]
+social:
+  links:
+    - https://twitter.com/LevertionMC
+    - https://github.com/Levertion
+logo: /images/logo.png
