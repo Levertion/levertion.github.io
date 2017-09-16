@@ -1,7 +1,7 @@
 theme: jekyll-theme-slate
 title: Levertion's Minecraft Creations
 desciption: A selection of Minecraft creations
-permalink: /:categories/:slug.html
+permalink: /:categories/:slug/
 google_analytics_disabled: UA-103575807-1
 url: https://levertion.github.io
 kramdown:
