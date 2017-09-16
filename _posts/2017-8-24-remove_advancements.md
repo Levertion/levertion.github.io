@@ -3,8 +3,8 @@ title: Remove Vanilla Advancements
 is_example: "true"
 description: "Two methods of removing vanilla advancements, and how this works"
 supported_versions: "Java 1.12.1"
-permalink: /utilities/remove_advancements.html
-redirect_from: [/utilities/remove-advancements.html]
+redirect_from: [/utilities/remove-advancements.html, /utilities/remove_advancements.html]
+categories: utilities
 ---
 * Contents
 {:toc}
