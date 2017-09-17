@@ -2,7 +2,7 @@
 title: Use the vanilla java runtime
 categories: modding
 is_example: "true"
-desciption: "How to use the builtin java runtime to install optifine and forge"
+description: "How to use the builtin java runtime to install optifine and forge"
 ---
 * Contents
 {:toc}
