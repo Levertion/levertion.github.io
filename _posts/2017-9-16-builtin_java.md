@@ -2,7 +2,7 @@
 title: Use the vanilla java runtime
 categories: modding
 is_example: "true"
-description: "How to use the builtin java runtime to install optifine and forge"
+description: "How to use the built-in java runtime to install optifine and forge"
 ---
 * Contents
 {:toc}
@@ -22,7 +22,7 @@ The subpoints laid out under each point are windows specific - laying out every 
   1. Open the Minecraft launcher.
   2. Right-click the icon on the taskbar
   3. Right-click on the `Minecraft launcher` text in the menu which comes up.
-  4. Left click on `properties` ![Properties location](/images/posts/builtin_java/taskbar_icon.png)
+  4. Left click on `properties` ![Properties location](/images/posts/builtin_java/taskbar_icon.PNG)
   5. Copy the contents of `Start in` to a new explorer window. E.g. `C:\Users\<username>\Documents\Minecraft\Launcher`
 2. Find the built-in Java executable.
   1. From the folder you found in `1.`, navigate to `runtime\jre-x64\1.8.0_51\bin`
