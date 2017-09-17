@@ -11,7 +11,7 @@ On this website I will be showing my various minecraft creations and utilities. 
 {% assign examples = (site.posts | where: "is_example", "true") %}
 {% for example in examples %}
 ## [{{example.title}}]({{example.url | absolute_url }})  
-#### {%if example.supported_versions %} For {{example.supported_versions}} {% endif %}
+{%if example.supported_versions %}#### For {{example.supported_versions}} {% endif %}
 {% if example.description %}
   {{ example.description }}
 {% endif %}
