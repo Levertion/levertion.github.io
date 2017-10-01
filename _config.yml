@@ -1,11 +1,18 @@
-theme: jekyll-theme-slate
-title: Levertion's Minecraft Creations
-desciption: A selection of Minecraft creations
+# Dependencies
+markdown: kramdown
+highlighter: rouge
+
+title: Levertion
+tagline: 'Minecraft Creations'
+desciption: A selection of Minecraft creations by <a href="https://twitter.com/LevertionMC">Levertion</a>
 permalink: /:categories/:slug/
-google_analytics_disabled: UA-103575807-1
+google_analytics: UA-103575807-1
 url: https://levertion.github.io
-kramdown:
-  toc_levels: 1..2
+author:
+  name:           'Levertion'
+  url:            https://twitter.com/LevertionMC]
+github:
+  repo: https://github.com/Levertion/levertion.github.io
 lang: en_GB
 twitter:
   username: levertionmc
@@ -15,3 +22,10 @@ social:
     - https://twitter.com/LevertionMC
     - https://github.com/Levertion
 logo: /images/logo.png
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
+paginate: 5
+disqus:
+  shortname: levertion
