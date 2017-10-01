@@ -1,8 +1,8 @@
 ---
 title: Use the vanilla java runtime
-categories: modding
-is_example: "true"
+categories: Modding
 description: "How to use the built-in java runtime to install optifine and forge"
+title: Modding, Optifine, Security, Java, Minecraft
 ---
 ## Why
 

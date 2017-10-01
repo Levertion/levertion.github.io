@@ -1,10 +1,10 @@
 ---
 title: No RP translation
-categories: mapmaking
-is_example: "true"
+categories: Mapmaking
 description: "How to support translations, without requiring a resource pack (mostly)"
+tags: Vanilla, Mapmaking, Translation, Resource Packs, Minecraft
 ---
-## Translation support no mandatory RP
+## Translation support without a mandatory resource pack
 
 When developing maps, it is good to make sure that your map has full support for translations to allow for players anywhere to enjoy your map.  
 Minecraft does have an in-game way to translate (most) in-game strings. However, to use this in a map normally requires a resource pack. Unfortunately, making the players of your map use the resource pack is quite hard. You can confirm upon login that they are using it (as first shown by [The Redstone Scientist](https://www.youtube.com/channel/UCf9NPB_CV1tXoh6mdryvHzg) in [this video](https://www.youtube.com/watch?v=72WkM1fKGPA)), but if they logout they could remove it. Server resource packs can be denied too, so that is no solution.  

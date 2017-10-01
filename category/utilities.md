@@ -1,7 +1,7 @@
 ---
 layout: category
 title: Utilities
-category: utilities
+category: Utilities
 ---
 
 These are various utilities available to make your minecraft life easier.  
