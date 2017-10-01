@@ -1,6 +1,6 @@
 ---
 title: Remove Vanilla Advancements
-description: "Two methods of removing vanilla advancements, and how this works"
+excerpt: "Two methods of removing vanilla advancements, and how this works"
 supported_versions: "Java 1.12.1"
 categories: 
   - Utilities

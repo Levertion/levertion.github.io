@@ -2,7 +2,7 @@
 title: No RP translation
 categories: 
   - Mapmaking
-description: "How to support translations, without requiring a resource pack (mostly)"
+excerpt: "How to support translations, without requiring a resource pack (mostly)"
 tags: 
   - Vanilla
   - Mapmaking

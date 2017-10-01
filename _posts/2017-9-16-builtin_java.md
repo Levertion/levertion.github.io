@@ -2,7 +2,7 @@
 title: Use the vanilla java runtime
 categories: 
   - Modding
-description: "How to use the built-in java runtime to install optifine and forge"
+excerpt: "How to use the built-in java runtime to install optifine and forge"
 tags: 
   - Modding
   - Optifine
