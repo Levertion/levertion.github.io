@@ -26,11 +26,11 @@ The only place where you must be careful is in books, where the book must be cre
 
 ## Example  
 For example, imagine that you have an intro sentence. Your original text component would look like this:
-JSON
+```JSON
 {"text":"Hello, welcome to this map"}
 ```
 To allow translation, you would change this to:
-JSON
+```JSON
 {"translate":"Hello, welcome to this map"}
 ```
 To translate it, in the resource pack (which only needs to be used by the people who want the map in it's not default language), you would type:
