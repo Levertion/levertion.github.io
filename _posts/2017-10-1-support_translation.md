@@ -2,7 +2,7 @@
 title: No RP translation
 categories: Mapmaking
 description: "How to support translations, without requiring a resource pack (mostly)"
-tags: Vanilla, Mapmaking, Translation, Resource Packs, Minecraft
+tags: Vanilla, Mapmaking, Translation, ResourcePacks, Minecraft
 ---
 ## Translation support without a mandatory resource pack
 
