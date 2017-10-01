@@ -4,9 +4,6 @@ categories: modding
 is_example: "true"
 description: "How to use the built-in java runtime to install optifine and forge"
 ---
-* Contents
-{:toc}
-
 ## Why
 
 Ever since early 2015, the most up to date `Minecraft: Java Edition` launcher has come with a built-in version of Java. This means that it is no longer needed to be installed on the computer beyond the version built-in with Minecraft.  
