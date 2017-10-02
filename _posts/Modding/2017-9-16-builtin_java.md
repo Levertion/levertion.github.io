@@ -4,11 +4,10 @@ categories:
   - Modding
 excerpt: "How to use the built-in java runtime to install optifine and forge"
 tags: 
+  - Minecraft
   - Modding
-  - Optifine
   - Security
   - Java
-  - Minecraft
 ---
 ## Why
 

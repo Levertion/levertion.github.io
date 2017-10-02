@@ -1,7 +1,6 @@
 ---
 title: Remove Vanilla Advancements
 excerpt: "Two methods of removing vanilla advancements, and how this works"
-supported_versions: "Java 1.12.1"
 categories: 
   - Utilities
   - Mapmaking
@@ -10,6 +9,7 @@ tags:
   - Mapmaking
   - Video Production
   - Minecraft
+  - Advancements
 ---
 # Introduction  
 For a lot of Minecraft content apart from the vanilla survival experience, the vanilla advancements take away from the professionalism rather than add to the experience of the content. This is especially important for map-making and tutorial video production, when it removes from immersion because of unneeded toasts.  
