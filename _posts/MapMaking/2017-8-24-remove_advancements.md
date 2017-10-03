@@ -1,9 +1,8 @@
 ---
 title: Remove Vanilla Advancements
-excerpt: "Two methods of removing vanilla advancements, and how this works"
+excerpt: "Two methods of removing vanilla Advancements, and how this works"
 categories: 
-  - Utilities
-  - Mapmaking
+  - Advancements
 tags:
   - Vanilla 
   - Mapmaking

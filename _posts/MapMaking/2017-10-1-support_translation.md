@@ -1,7 +1,7 @@
 ---
-title: No RP translation
+title: Translation Support; Optional Resource Pack
 categories: 
-  - Mapmaking
+  - Resource Packs
 excerpt: "How to support translations, without requiring a resource pack (mostly)"
 tags: 
   - Vanilla
