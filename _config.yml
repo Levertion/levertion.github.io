@@ -30,3 +30,4 @@ plugins:
 paginate: 5
 disqus:
   shortname: levertion
+repository: levertion/levertion.github.io
