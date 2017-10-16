@@ -31,3 +31,4 @@ paginate: 5
 disqus:
   shortname: levertion
 repository: levertion/levertion.github.io
+show_drafts: false
