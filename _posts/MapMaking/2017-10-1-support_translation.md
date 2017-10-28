@@ -1,7 +1,7 @@
 ---
 title: Translation Support; Optional Resource Pack
 categories: 
-  - Resource Packs
+  - resource_packs
 excerpt: "How to support translations, without requiring a resource pack (mostly)"
 tags: 
   - Vanilla

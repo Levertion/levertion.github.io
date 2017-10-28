@@ -2,7 +2,7 @@
 title: Force an Advancement to follow another
 excerpt: "How to force one advancement to only be obtainable after another already has been"
 categories: 
-  - Advancements
+  - advancements
 tags:
   - Vanilla 
   - Minecraft
