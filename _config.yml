@@ -6,7 +6,7 @@ title: Levertion
 tagline: 'Minecraft Creations'
 description: A selection of Minecraft creations by <a href="https://twitter.com/LevertionMC">Levertion</a>
 permalink: /:categories/:slug/
-google_analytics: UA-103575807-1
+google_analytics-local: UA-103575807-1
 url: https://levertion.github.io
 author:
   name:           'Levertion'
@@ -16,7 +16,6 @@ github:
 lang: en_GB
 twitter:
   username: levertionmc
-exclude: [README.md]
 social:
   links:
     - https://twitter.com/LevertionMC
