@@ -12,5 +12,6 @@
         "**/bower_components": true,
         "**/_site": true
     },
-    "files.insertFinalNewline": false
+    "files.insertFinalNewline": false,
+    "editor.formatOnSave": false
 }
