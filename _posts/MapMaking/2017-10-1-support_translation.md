@@ -45,4 +45,4 @@ Hello, welcome to this map=Hallo, willkommen als dieser Welt
 ```
 
 ## Limitations
-It is currently impossible to translate lore and entity names. Other than that, most other strings are translatable, and there are plans to move over to JSON text components for everything
+It was impossible to translate lore and entity names before 1.14. Other than that, most other strings are translatable, and there are plans to move over to JSON text components for everything
